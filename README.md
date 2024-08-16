@@ -1,6 +1,6 @@
 # React + Vite
 
-Gifs con GHIPHY dev url 
+Gifs con GHIPHY dev url ......
 
 Currently, two official plugins are available:
 
